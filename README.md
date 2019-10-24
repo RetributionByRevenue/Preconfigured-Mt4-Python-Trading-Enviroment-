@@ -1,5 +1,6 @@
 The purpose of this github is to provide a solution to the biggest problem currently in the forex market, and that issue is algo trading!
 
+![Output Result](https://github.com/RetributionByRevenue/Preconfigured-Mt4-Python-Trading-Enviroment-/blob/master/Demonstration.gif?raw=true)
 
 Most forex brokers do not have their own custom api and only provide their own version of Metatrader 4 for traders to interface with.
 Metatrader 4/Metatrader 5 is an outdated windows xp era forex trading software that is rather difficult to use AND espically frustating to program for!!!
