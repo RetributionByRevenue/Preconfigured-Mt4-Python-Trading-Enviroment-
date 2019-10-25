@@ -19,3 +19,8 @@ Just load spyder.exe and terminal.exe and you are ready to start algo trading.
 What is the catch? Only works on windows only. You can use wine to emulate on mac/linux but support is hit or miss.
 Download: https://mega.nz/#!j1V3SAJY!nefxmYUgvWRgemo7t5sJ5B1sBd96SNramou1RjbPPOc
 
+| Tech Stack Used   |      Description      |  Link |
+|----------|:-------------:|------:|
+| Oanda demo account api |  A free and easy to use source to obtain candlestick data. Can also be used for order management. | https://developer.oanda.com/rest-live-v20/introduction/ |
+| WinPython |    A powerful portable python enviroment with many useful tools preinstalled. | http://winpython.sourceforge.net/ |
+| MT4 Portable | A portable version of MT4 |   http://projectreaper.pw/en/metatrader-4-portable/  |
