@@ -1,5 +1,7 @@
 The purpose of this github is to provide a solution to the biggest problem currently in the forex market, and that issue is algo trading!
 
+I also made a youtube video tutorial with complete walkthrough how to operate the code:
+https://www.youtube.com/watch?v=qHsNMn1rEzI&lc=z23vulyhro3exp0khacdp43aj24gv4lscs31pfbwpklw03c010c
 
 ![Output Result](https://github.com/RetributionByRevenue/Preconfigured-Mt4-Python-Trading-Enviroment-/blob/master/Demonstration.gif?raw=true)
 
@@ -18,6 +20,9 @@ Just load spyder.exe and terminal.exe and you are ready to start algo trading.
 
 What is the catch? Only works on windows only. You can use wine to emulate on mac/linux but support is hit or miss.
 Download: https://mega.nz/#!j1V3SAJY!nefxmYUgvWRgemo7t5sJ5B1sBd96SNramou1RjbPPOc
+
+I also made a youtube video tutorial with complete walkthrough how to operate the code:
+https://www.youtube.com/watch?v=qHsNMn1rEzI&lc=z23vulyhro3exp0khacdp43aj24gv4lscs31pfbwpklw03c010c
 
 | Tech Stack Used   |      Description      |  Link |
 |----------|:-------------:|------:|
