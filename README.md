@@ -21,6 +21,7 @@ Just load spyder.exe and terminal.exe and you are ready to start algo trading.
 What is the catch? Only works on windows only. You can use wine to emulate on mac/linux but support is hit or miss.
 Download: https://mega.nz/#!j1V3SAJY!nefxmYUgvWRgemo7t5sJ5B1sBd96SNramou1RjbPPOc
 
+Click image below to watch Youtube video tutorial:
 [![Link to youtube video](https://raw.githubusercontent.com/RetributionByRevenue/Preconfigured-Mt4-Python-Trading-Enviroment-/master/1.png)](https://www.youtube.com/watch?v=qHsNMn1rEzI&lc=z23vulyhro3exp0khacdp43aj24gv4lscs31pfbwpklw03c010c)
 
 | Tech Stack Used   |      Description      |  Link |
