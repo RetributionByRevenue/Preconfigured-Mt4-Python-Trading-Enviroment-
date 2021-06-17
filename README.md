@@ -1,3 +1,5 @@
+follow my instagram: @slay_the_normies
+
 The purpose of this github is to provide a solution to the biggest problem currently in the forex market, and that issue is algo trading!
 
 I also made a youtube video tutorial with complete walkthrough how to operate the code:
